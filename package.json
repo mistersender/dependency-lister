@@ -1,0 +1,26 @@
+{
+  "name": "dependency-lister",
+  "version": "1.0.0",
+  "description": "Util for generating an array of path locations for common node dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistersender/dependency-lister.git"
+  },
+  "keywords": [
+    "package.json",
+    "dependency",
+    "automate",
+    "build",
+    "util"
+  ],
+  "author": "Jessica Kennedy <jessica.kennedy@inmar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mistersender/dependency-lister/issues"
+  },
+  "homepage": "https://github.com/mistersender/dependency-lister#readme"
+}
